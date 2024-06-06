@@ -1,7 +1,7 @@
-### Hi there 👋
-I am a Python developer. You can see my projects here.
+## Hi there 👋
+### I am a Python developer. You can see my projects here.
 
-My stack of skills and technologies:
+### My stack of skills and technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
